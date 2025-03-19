@@ -45,5 +45,5 @@ scrapy crawl wedding_spot -o venues.csv
 ## Contact
 For any issues, reach out via email or GitHub Issues.
 -email:laxmirimal2005@gmail.com
--github:https:www.github.com/laxmi-rimal
+-github:https:www.github.com/laxmirimal
 
