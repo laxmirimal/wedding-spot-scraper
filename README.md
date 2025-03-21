@@ -15,7 +15,7 @@ Make sure you have the following installed on your system:
 ## Installation
 1. Clone the repository or download the code:
    ```bash
-   git clone https://github.com/laxmi-rimal/wedding-spot-scraper.git
+   git clone https://github.com/laxmirimal/wedding-spot-scraper.git
    cd wedding-spot-scraper
    ```
 
