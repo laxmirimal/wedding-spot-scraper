@@ -19,6 +19,13 @@ Make sure you have the following installed on your system:
    cd wedding-spot-scraper
    ```
 
+## Scraper Location
+
+The main Python script responsible for scraping data is located in:
+
+-wedding_scraper/spiders/wedding_spot.py
+
+
 2. Install dependencies:
    ```bash
    pip install scrapy
